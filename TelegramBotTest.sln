@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rcb.Internal.Web.Api", "Rcb.Internal.Web.Api\Rcb.Internal.Web.Api.csproj", "{BA3FE503-9E6F-4DAE-A706-3ADFAD4AB5A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rcb.MessageReader.Service", "Rcb.MessageReader.Service\Rcb.MessageReader.Service.csproj", "{9FE918F3-CE4F-4710-B51C-8FECCA586582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3FE503-9E6F-4DAE-A706-3ADFAD4AB5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3FE503-9E6F-4DAE-A706-3ADFAD4AB5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3FE503-9E6F-4DAE-A706-3ADFAD4AB5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3FE503-9E6F-4DAE-A706-3ADFAD4AB5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE918F3-CE4F-4710-B51C-8FECCA586582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE918F3-CE4F-4710-B51C-8FECCA586582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE918F3-CE4F-4710-B51C-8FECCA586582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE918F3-CE4F-4710-B51C-8FECCA586582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

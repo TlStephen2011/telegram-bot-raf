@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-Rcb.MessageReader.Service-41c2a0c8-68ab-4b87-aa37-66d5232ec6fa</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.1"/>
+        <PackageReference Include="Telegram.Bot" Version="22.5.1" />
+    </ItemGroup>
+</Project>
